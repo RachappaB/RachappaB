@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rachappa</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hey Guys I'm Rachappa Biradar
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
+I am from Bidar, India and am currently doing B.Tech in Computer Science.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachappab&label=Profile%20views&color=0e75b6&style=flat" alt="rachappab" /> </p>
+Mainly self-taught programmer with a huge passion for programming.
+
+
+
+
+<p align="left">📚 B.Tech in Computer Science and Engineering ( from PES University, Bangalore, India </p>
+<p align="left">📈 Backend Development, API's ,coding</p>
+
+
+<br><br>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachappab" alt="rachappab" /></a> </p>
 
 - 🔭 I’m currently working on [Asclepius](https://github.com/RachappaB/Asclepius)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Algorithms**
 
-- 🤝 I’m looking for help with **C++,DAA**
 
 - 💬 Ask me about **MERN stack**
 
