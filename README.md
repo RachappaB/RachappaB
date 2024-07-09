@@ -1,8 +1,8 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hey Guys I'm Rachappa Biradar
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
-I am from Bidar, India and am currently doing B.Tech in Computer Science.
+I am from  India and am currently doing B.Tech in Computer Science.
 
-Mainly self-taught programmer with a huge passion for programming.
+ a huge passion for Building Soulition .
 
 
 
