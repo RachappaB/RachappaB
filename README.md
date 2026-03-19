@@ -20,7 +20,7 @@ I don’t just build apps — I build **solutions that change behavior**.
 
 ### 🚀 Startup: Sunita.space
 
-🌐 https://sunita.space/about.html
+🌐 https://sunita.space
 
 A **behavior-aware digital wellness platform** to fight **phone addiction** using data + AI.
 
