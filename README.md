@@ -1,44 +1,126 @@
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hey Guys I'm Rachappa Biradar
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
-I am from  India and am currently doing B.Tech in Computer Science.
+### 👋 Hey, I'm Rachappa Biradar
 
- a huge passion for Building Soulition .
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
+💡 Builder | System Thinker | Problem Solver
+🇮🇳 India | B.Tech CSE @ PES University, Bangalore
 
+---
 
+### 🧠 About Me
 
-<p align="left">📚 B.Tech in Computer Science and Engineering ( from PES University, Bangalore, India </p>
+I don’t just build apps — I build **solutions that change behavior**.
 
+* ⚙️ Focused on **System Design & Scalable Architectures**
+* 🐳 Working with **Docker, DevOps & Distributed Systems**
+* 📊 Exploring **AI/ML for human behavior modeling**
+* 📱 Building **mobile-first and real-world impactful products**
 
-<br><br>
+---
 
+### 🚀 Startup: Sunita.space
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachappab" alt="rachappab" /></a> </p>
+🌐 https://sunita.space/about.html
 
+A **behavior-aware digital wellness platform** to fight **phone addiction** using data + AI.
 
+#### 🔥 What it does:
 
+* 📊 Tracks user behavior patterns across apps & web
+* 🧠 Predicts relapse using ML models
+* 📉 Calculates habit & addiction scores
+* ⚡ Gives real-time interventions to regain focus
 
-- 🔭 I’m currently working on [Asclepius](https://github.com/RachappaB/Asclepius)
+> 🎯 Mission: Help people **take back control of their attention**
 
-- 🌱 I’m currently learning **Algorithms**
+---
 
+### 🧩 Chrome Extension (Live 🚀)
 
-- 💬 Ask me about **MERN stack**
+🔗 https://chromewebstore.google.com/detail/ikfnohghnoljemijhpoccpcbhpbjijen
 
-- 📫 How to reach me **rachappabiradar6@gmail.com**
+* Detects distraction patterns in browsing
+* Integrates with backend ML system
+* Sends real-time nudges
+* Works as a **behavior monitoring agent**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### ⚙️ Tech Stack
+
+#### 🐳 DevOps & Infrastructure
+
+* Docker (Compose, Networking, Volumes)
+* Kubernetes (Basics, Deployment Concepts)
+* Nginx (Reverse Proxy, Load Balancing)
+* Linux System Design & Optimization
+* CI/CD (GitHub Actions)
+
+#### 🧠 System Design
+
+* Scalable Backend Architecture
+* Microservices vs Monolith
+* REST API Design
+* Authentication & Rate Limiting
+* Caching (Redis basics)
+
+#### 💻 Backend & Data
+
+* Node.js / Express
+* Python (ML + Data Pipelines)
+* PostgreSQL / MongoDB / MySQL
+* Feature Engineering & Model Building
+
+#### 📱 Frontend & Mobile
+
+* React.js
+* React Native (Expo)
+* Chrome Extensions
+
+---
+
+### 🌱 Currently Learning
+
+* Advanced Algorithms (DSA)
+* Distributed Systems
+* Edge AI (on-device ML)
+* Real-time data systems
+
+---
+
+### 🏆 Achievements
+
 <p align="left">
-<a href="https://www.hackerrank.com/rachappabiradar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rachappabiradar6" height="30" width="40" /></a>
- <a href="https://tryhackme.com/p/rachappabiradar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rachappabiradar6" height="30" width="40" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rachappab&theme=onedark" />
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachappab&show_icons=true&locale=en&layout=compact" alt="rachappab" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rachappab&show_icons=true&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachappab&show_icons=true&locale=en" alt="rachappab" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachappab&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachappab&" alt="rachappab" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachappab&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+* 📧 [rachappabiradar6@gmail.com](mailto:rachappabiradar6@gmail.com)
+* 💻 HackerRank: https://www.hackerrank.com/rachappabiradar6
+* 🧠 TryHackMe: https://tryhackme.com/p/rachappabiradar6
+
+---
+
+### ⚡ Philosophy
+
+> “Don’t just build features.
+> Build systems that change how people behave.”
